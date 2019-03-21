@@ -28,10 +28,10 @@
         "LocalWSServerPort": 17700,
         "LocalHTTPServerPort": 19050,
         "SingleFileHtml": true,
-        "MemorySize": 16,
+        "MemorySize": 32,
         "IncludeWebPDecompressor": false,
         "RunBabel": true,
-        "MinifyJavaScript": false,
+        "MinifyJavaScript": true,
         "LinkToSource": true,
         "SymbolsInReleaseBuild": false
     },
